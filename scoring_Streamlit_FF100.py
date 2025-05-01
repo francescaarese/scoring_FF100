@@ -271,9 +271,13 @@ def calculate_overall_score(row, weights):
     total_score = 0
     total_weight = 0
     for key in weights:
-        if key in row and pd.notna(row[key]):
-            total_score += row[key] * weights[key]
-            total_weight += weights[key]
+        if key in row:
+            value = pd.to_numeric(row[key], errors='coerce')
+            if pd.notna(value):
+                total_score += value * weights[key]
+                total_weight += weights[key]
+            else:
+                st.warning(f"Non-numeric value in column '{key}' — skipping it in calculation.")
         else:
             st.warning(f"Missing score column: '{key}' — skipping it in calculation.")
     return total_score / total_weight if total_weight > 0 else 0
