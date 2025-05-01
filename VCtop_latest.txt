@@ -1,0 +1,131 @@
+8VC
+A* Capital
+ACME Capital
+AI-NC
+Accel
+Altimeter Capital
+Andreessen Horowitz
+Atomico
+B Capital
+BOND
+Bain Capital
+Balderton Capital
+Battery Ventures
+Benchmark Capital
+Bessemer Venture Partners
+Bling Capital
+Box
+CRV
+Canaan Partners
+Capital Today
+Cendana Capital
+Coatue
+Conviction
+Cota Capital
+Cowboy Ventures
+Creandum
+DCM
+DCVC
+DST Global
+DST Investment Management
+Data Collective
+Dawn Capital
+Dimension Capital
+EQ.XYZ
+EQT
+EQT Group
+EQT Growth
+EQT Ventures
+Embracer Group
+Entrepreneur First
+FJ Labs
+Felicis Ventures
+Fifty Years
+First Round Capital
+FirstMark Capital
+Floodgate
+Forerunner Ventures
+Founder Collective
+Founders Fund
+Future Shape LLC
+GGV Capital
+GV
+General Atlantic
+General Catalyst
+Generation Investment Management
+Gigafund
+Google Ventures
+Gradient
+Greenoaks Capital
+Greylock Partners
+Hedosophia
+Headline Ventures
+ICONIQ Capital
+ICONIQ Growth
+IVP
+Index Ventures
+Industry Ventures
+Insight Partners
+Intel Capital
+Investment AB Kinnevik
+KRH Partners
+Khosla Ventures
+Kleiner Perkins
+Lakestar
+Lightspeed Venture Partners
+Lightspeed Ventures
+Lobby Capital
+Lux Capital
+M13
+March Capital
+Matrix Partners
+Mayfield Fund
+Menlo Ventures
+NEA
+NFX Capital
+New Enterprise Associates (NEA)
+NextSequence
+Northzone
+Norwest Venture Partners
+Notion Capital
+Obvious Ventures
+One Investment Management
+Oxford Science Enterprises
+Partech
+Peak XV Partners
+Point Nine Capital
+QED Investors
+RRE Ventures
+Redpoint Ventures
+Renegade Partners
+Revolution
+Ribbit Capital
+Salesforce Ventures
+Sanabil
+Sanofi
+Sofinnova Partners
+Sapphire Ventures
+Seedcamp
+Sinovation Ventures
+Slow Ventures
+SoftBank
+SoftBank Investment Advisers
+SoftBank Vision Fund
+Sound Ventures
+Spark Capital
+Sutter Hill Ventures
+TCV
+TechStars
+Thiel Capital
+Third Kind Ventures
+Thrive Capital
+Tiger Global Management
+Torch Capital
+UTA Ventures
+Union Square Ventures
+
+Upfront Ventures
+Valor Equity Partners
+Warburg Pincus
+Y Combinator
+ZhenFund
